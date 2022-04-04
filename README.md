@@ -1,1 +1,1 @@
-# diseaseneurogenomics.github.io
+# DiseaseNeuroGenomics.github.io
